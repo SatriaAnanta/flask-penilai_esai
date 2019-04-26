@@ -196,11 +196,11 @@ CREATE TABLE `pengguna` (
 --
 
 INSERT INTO `pengguna` (`key_data_pengguna`, `nama`, `email`, `key_pengguna`) VALUES
-(1, 'Satria', 'satriaananta1996@gmail.com', 2),
-(2, 'Tester', 'sapi.oleng@gmail.com', 3),
-(5, 'Sasa', 'satriaanantagaming@gmail.com', 6),
-(6, 'Sa', 'pandesatria1996@gmail.com', 7),
-(7, 'Asddd', 'haditama7070@gmail.com', 8);
+(1, 'Satria', 'asdsad@email.com', 2),
+(2, 'Tester', 'asdsdads@email.com', 3),
+(5, 'Sasa', 'vcvcvvc@email.com', 6),
+(6, 'Sa', 'nmnbnj@email.com', 7),
+(7, 'Asddd', 'dfdf@email.com', 8);
 
 -- --------------------------------------------------------
 
